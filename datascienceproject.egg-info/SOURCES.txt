@@ -1,0 +1,6 @@
+README.md
+setup.py
+datascienceproject.egg-info/PKG-INFO
+datascienceproject.egg-info/SOURCES.txt
+datascienceproject.egg-info/dependency_links.txt
+datascienceproject.egg-info/top_level.txt
